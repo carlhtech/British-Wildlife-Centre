@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: b6e64a7d0742c4514b230c907cdd5030
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: 30688b9423fa84bbba0b9d7d8c9f659d
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 86b102b7500994c7e8a9e90c3c902971
+  - enabled: 1
+    path: Assets/Scenes/MapScene.unity
+    guid: 51e3d20268d14412db0f38dd4b4c855b
+  - enabled: 1
+    path: Assets/Scenes/ARAnimal.unity
+    guid: a941e815930174d28814cebe4963c107
+  - enabled: 1
+    path: Assets/Scenes/UnityARKitScene 1.unity
+    guid: 7b0c15cbd575c459fa60448377461c8f
+  - enabled: 1
+    path: Assets/Scenes/QuizMenuScene.unity
+    guid: f2b841f76252c42ccbdaba120e1cdac0
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: ca85e6927cb954d98a70d3c58d1b9108
+  - enabled: 1
+    path: Assets/Scenes/PictureBook.unity
+    guid: 567cdb4c1e16e4496833f84c0aeb1916
+  - enabled: 1
+    path: Assets/Scenes/PictureBookCamera.unity
+    guid: f3e7f6f32f20f4122973ac1c9cca5b2b
+  - enabled: 1
+    path: Assets/Scenes/Encyclopedia.unity
+    guid: dd22de425af7e403d9a22ebc7af6be71
+  - enabled: 1
+    path: Assets/Scenes/Footage.unity
+    guid: e7ac8c48d36534c70b8658b8e050cec7
