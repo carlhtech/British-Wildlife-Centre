@@ -6,7 +6,13 @@ This was a project in collaboration with the BWC for visitors to enjoy. It inclu
 
 <br/>
 
-Different categories are placed around the map but at major locations ie Train stations, pubs etc ... there is a major quiz hub. Only those who have successfully earned enough credibility in the quiz world can play these games and rewards are plentiful should they place well on the major quiz hubs.
+App includes:
+
+Interactive map
+Photo adding
+Quiz
+2 AR features (footage and animal pets)
+Enylopedia
 
 <br/>
 
@@ -26,7 +32,7 @@ BWC folder can be downloaded and run straight in Unity. Unity version 2017.2 wil
 
 ## Video walkthrough
 
-[![Quizland](http://img.youtube.com/vi/33Z5j2p854s/0.jpg)](http://www.youtube.com/watch?v=33Z5j2p854s "Quizland")
+[![British Wildlife Centre](http://img.youtube.com/vi/dNmvNc0r3Ho/0.jpg)](http://www.youtube.com/watch?v=dNmvNc0r3Ho "British Wildlife Centre")
 
 
 
