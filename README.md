@@ -8,11 +8,11 @@ This was a project in collaboration with the BWC for visitors to enjoy. It inclu
 
 App includes:
 
-*Interactive map
-*Photo adding
-*Quiz
-2 AR features (footage and animal pets)
-Enylopedia
+- Interactive map
+- Photo adding
+- Quiz
+- 2 AR features (footage and animal pets)
+- Enylopedia
 
 <br/>
 
