@@ -10,9 +10,9 @@ Different categories are placed around the map but at major locations ie Train s
 
 <br/>
 
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS1.png" width="200"/>&nbsp;&nbsp;
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS4.png" width="400"/>&nbsp;&nbsp;
-<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS2.png" width="200"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS1.png" width="230"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS4.png" width="450"/>&nbsp;&nbsp;
+<img src="https://github.com/carlhtech/carlhtech/blob/main/Images/BWCImages/SS2.png" width="230"/>&nbsp;&nbsp;
 
 
 <br/>
